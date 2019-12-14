@@ -1,0 +1,41 @@
+{
+  "name": "hello_react",
+  "version": "1.0.0",
+  "description": "hello react",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --history-api-fallback",
+    "webpack": "webpack -d",
+    "test": "mocha --require @babel/register --timeout 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/register": "^7.7.4",
+    "material-ui": "^0.20.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "babel-register": "^6.26.0",
+    "css-loader": "^3.2.0",
+    "eslint": "^6.3.0",
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "mocha": "^6.2.2",
+    "nightmare": "^3.0.2",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
