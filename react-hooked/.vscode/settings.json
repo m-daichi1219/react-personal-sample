@@ -1,0 +1,14 @@
+{
+  "eslint.autoFixOnSave": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "eslint.run": "onSave",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
