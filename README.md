@@ -17,3 +17,10 @@ Project:
 
 > refarence:  
 > [How to build a movie search app using React Hooks](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
+
+Project:
+
+- react-redux-tutorial
+
+> refarence:  
+> [React Redux Tutorial for Beginners: The Definitive Guide (2020)](https://www.valentinog.com/blog/redux/)
